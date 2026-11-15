@@ -43,9 +43,19 @@
     "changelog": "Whispering Valley v0.7.3: Brighter Campfires, Clean Player Cursors & Crisp Facing Arrow.",
     "content_hash": "6fac90751fe1c262726ee0f7fa8d81c4a26007dd329356abfdd84035dd052c4f",
     "github_archive_path": "patches/WhisperingValley_v0.7.3_e46097c2.pck",
-    "pck_bytes": 415036,
+    "pck_bytes": 415036.0,
     "pck_sha256": "e46097c2a239c16521339be63cf79ae5e22e197ca8f9aebcda4ad720d22fb8ea",
-    "timestamp_unix": 1794750529,
+    "timestamp_unix": 1794750529.0,
     "version": "0.7.3"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.4_5c5d0f62.pck",
+    "changelog": "Whispering Valley v0.7.4: Hand-Crafted Woodland Timber UI & Ergonomic PC/Mobile HUD Layouts.",
+    "content_hash": "828516e6ee662c700beec18be9157d1e3bc4329b2a1acdfb8e5a083279b6a926",
+    "github_archive_path": "patches/WhisperingValley_v0.7.4_5c5d0f62.pck",
+    "pck_bytes": 429852,
+    "pck_sha256": "5c5d0f6203bc6a864570ad59836e3a3901275a99fb0188a8357a0a5ea070798f",
+    "timestamp_unix": 1794751155,
+    "version": "0.7.4"
   }
 ]
