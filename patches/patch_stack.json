@@ -73,9 +73,19 @@
     "changelog": "Whispering Valley v0.7.6: Main Menu Maximize Fix & PC/Mobile Stability Audit.",
     "content_hash": "c1bca2b1f3b0925eb0149c41269b9bc715c50899b7e4956aebbb744c40402274",
     "github_archive_path": "patches/WhisperingValley_v0.7.6_cdb2416a.pck",
-    "pck_bytes": 1807868,
+    "pck_bytes": 1807868.0,
     "pck_sha256": "cdb2416ac1359a2a9590667206e29a0dc5514a3000e30234918987f408c92b7a",
-    "timestamp_unix": 1794752277,
+    "timestamp_unix": 1794752277.0,
+    "version": "0.7.6"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.6_8e69e6a8.pck",
+    "changelog": "Whispering Valley v0.7.6: Main Menu Maximize Fix & PC/Mobile Stability Audit.",
+    "content_hash": "9e0d081ac21eb43892f7c5f2c5c9ade38499aa4fd2a9da3775e794c71e028b33",
+    "github_archive_path": "patches/WhisperingValley_v0.7.6_8e69e6a8.pck",
+    "pck_bytes": 1807836,
+    "pck_sha256": "8e69e6a8382ac08de9b85457c6002a8c4cc14ce86837e068b5716f75fe65c9b3",
+    "timestamp_unix": 1794752504,
     "version": "0.7.6"
   }
 ]
