@@ -33,9 +33,19 @@
     "changelog": "Whispering Valley v0.7.2: Slowed 20-Minute Day/Night Cycle & Continuous Solar Sun Movement.",
     "content_hash": "7ab41501c5fa63758d8afb4f213d1afbe6b757a43345ad6a5c95504f890a1374",
     "github_archive_path": "patches/WhisperingValley_v0.7.2_ddd3b341.pck",
-    "pck_bytes": 412700,
+    "pck_bytes": 412700.0,
     "pck_sha256": "ddd3b341aedf83d949d57b8020df9a7ab337c1a2734d03216582440a6db4483e",
-    "timestamp_unix": 1794748871,
+    "timestamp_unix": 1794748871.0,
     "version": "0.7.2"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.3_e46097c2.pck",
+    "changelog": "Whispering Valley v0.7.3: Brighter Campfires, Clean Player Cursors & Crisp Facing Arrow.",
+    "content_hash": "6fac90751fe1c262726ee0f7fa8d81c4a26007dd329356abfdd84035dd052c4f",
+    "github_archive_path": "patches/WhisperingValley_v0.7.3_e46097c2.pck",
+    "pck_bytes": 415036,
+    "pck_sha256": "e46097c2a239c16521339be63cf79ae5e22e197ca8f9aebcda4ad720d22fb8ea",
+    "timestamp_unix": 1794750529,
+    "version": "0.7.3"
   }
 ]
