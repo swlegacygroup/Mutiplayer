@@ -83,9 +83,19 @@
     "changelog": "Whispering Valley v0.7.6: Main Menu Maximize Fix & PC/Mobile Stability Audit.",
     "content_hash": "9e0d081ac21eb43892f7c5f2c5c9ade38499aa4fd2a9da3775e794c71e028b33",
     "github_archive_path": "patches/WhisperingValley_v0.7.6_8e69e6a8.pck",
-    "pck_bytes": 1807836,
+    "pck_bytes": 1807836.0,
     "pck_sha256": "8e69e6a8382ac08de9b85457c6002a8c4cc14ce86837e068b5716f75fe65c9b3",
-    "timestamp_unix": 1794752504,
+    "timestamp_unix": 1794752504.0,
     "version": "0.7.6"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.7_660de52b.pck",
+    "changelog": "Whispering Valley v0.7.7: Smooth HDR Radial Campfire & Lantern Lighting Cleanup.",
+    "content_hash": "6cf232b2a2c2f4b53761ed298b0393916a5e906523e5d64e32f5c03e3944ec30",
+    "github_archive_path": "patches/WhisperingValley_v0.7.7_660de52b.pck",
+    "pck_bytes": 1808092,
+    "pck_sha256": "660de52b3d6987e413b7296366025adf2f216b75855300a6489f39a758a6cb9b",
+    "timestamp_unix": 1794753000,
+    "version": "0.7.7"
   }
 ]
