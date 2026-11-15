@@ -93,9 +93,19 @@
     "changelog": "Whispering Valley v0.7.7: Smooth HDR Radial Campfire & Lantern Lighting Cleanup.",
     "content_hash": "6cf232b2a2c2f4b53761ed298b0393916a5e906523e5d64e32f5c03e3944ec30",
     "github_archive_path": "patches/WhisperingValley_v0.7.7_660de52b.pck",
-    "pck_bytes": 1808092,
+    "pck_bytes": 1808092.0,
     "pck_sha256": "660de52b3d6987e413b7296366025adf2f216b75855300a6489f39a758a6cb9b",
-    "timestamp_unix": 1794753000,
+    "timestamp_unix": 1794753000.0,
     "version": "0.7.7"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.8_31dc3ce1.pck",
+    "changelog": "Whispering Valley v0.7.8: Reliable Mobile Patch Staging, Warm-Process Reload & Android Lighting Fix.",
+    "content_hash": "cd732978a0f450a85f7f1e17bc1419b9846984a1d7a9c9d8632d376a458e501b",
+    "github_archive_path": "patches/WhisperingValley_v0.7.8_31dc3ce1.pck",
+    "pck_bytes": 1810876,
+    "pck_sha256": "31dc3ce1e433aa046eeb3643212ffbf875efe4e8e4dd445708d6a53c995f6dab",
+    "timestamp_unix": 1794779759,
+    "version": "0.7.8"
   }
 ]
