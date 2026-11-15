@@ -13,9 +13,19 @@
     "changelog": "Whispering Valley v0.7.0: Finite Resources Everywhere, Auto-Quit Update Sign, Real Campfire Night Illumination & 24h Sky Lighting.",
     "content_hash": "26257891f40f44d85b83c8ed18fa909f9abcbb9006dbf13ad3cb160d6b54f576",
     "github_archive_path": "patches/WhisperingValley_v0.7.0_16dbd6b3.pck",
-    "pck_bytes": 387452,
+    "pck_bytes": 387452.0,
     "pck_sha256": "16dbd6b3cef934fd955b320f4d19e07a4ca84f8fda7eeb39ba3fccbbbb6979d9",
-    "timestamp_unix": 1794746071,
+    "timestamp_unix": 1794746071.0,
     "version": "0.7.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.1_bae53ab5.pck",
+    "changelog": "Whispering Valley v0.7.1: Clean Stardew-Inspired PC & Mobile HUD, Larger Touch Controls & Submenu Touch Scrolling.",
+    "content_hash": "43aad3f15ef688672f82e27c4b53db338a2cdfab36c693a3a642164da18019f8",
+    "github_archive_path": "patches/WhisperingValley_v0.7.1_bae53ab5.pck",
+    "pck_bytes": 407452,
+    "pck_sha256": "bae53ab5427fd0dd3bb844efedbcbee130497464311068c79bec04717d1312c5",
+    "timestamp_unix": 1794747907,
+    "version": "0.7.1"
   }
 ]
