@@ -23,9 +23,19 @@
     "changelog": "Whispering Valley v0.7.1: Clean Stardew-Inspired PC & Mobile HUD, Larger Touch Controls & Submenu Touch Scrolling.",
     "content_hash": "43aad3f15ef688672f82e27c4b53db338a2cdfab36c693a3a642164da18019f8",
     "github_archive_path": "patches/WhisperingValley_v0.7.1_bae53ab5.pck",
-    "pck_bytes": 407452,
+    "pck_bytes": 407452.0,
     "pck_sha256": "bae53ab5427fd0dd3bb844efedbcbee130497464311068c79bec04717d1312c5",
-    "timestamp_unix": 1794747907,
+    "timestamp_unix": 1794747907.0,
     "version": "0.7.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.2_ddd3b341.pck",
+    "changelog": "Whispering Valley v0.7.2: Slowed 20-Minute Day/Night Cycle & Continuous Solar Sun Movement.",
+    "content_hash": "7ab41501c5fa63758d8afb4f213d1afbe6b757a43345ad6a5c95504f890a1374",
+    "github_archive_path": "patches/WhisperingValley_v0.7.2_ddd3b341.pck",
+    "pck_bytes": 412700,
+    "pck_sha256": "ddd3b341aedf83d949d57b8020df9a7ab337c1a2734d03216582440a6db4483e",
+    "timestamp_unix": 1794748871,
+    "version": "0.7.2"
   }
 ]
