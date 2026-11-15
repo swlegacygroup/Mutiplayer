@@ -53,9 +53,19 @@
     "changelog": "Whispering Valley v0.7.4: Hand-Crafted Woodland Timber UI & Ergonomic PC/Mobile HUD Layouts.",
     "content_hash": "828516e6ee662c700beec18be9157d1e3bc4329b2a1acdfb8e5a083279b6a926",
     "github_archive_path": "patches/WhisperingValley_v0.7.4_5c5d0f62.pck",
-    "pck_bytes": 429852,
+    "pck_bytes": 429852.0,
     "pck_sha256": "5c5d0f6203bc6a864570ad59836e3a3901275a99fb0188a8357a0a5ea070798f",
-    "timestamp_unix": 1794751155,
+    "timestamp_unix": 1794751155.0,
     "version": "0.7.4"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.5_cfee9bff.pck",
+    "changelog": "Whispering Valley v0.7.5: Custom Golden Sun & Oak Tree Emblem (Title, Window Taskbar & Native Export Icons).",
+    "content_hash": "735b3296233346cac2a480218f1f690b1375c8f291ce4903550b063ab731440f",
+    "github_archive_path": "patches/WhisperingValley_v0.7.5_cfee9bff.pck",
+    "pck_bytes": 1804860,
+    "pck_sha256": "cfee9bff11e35fe37add6e11b7a07b8335078a4a0ca534e60d1947860fde6b51",
+    "timestamp_unix": 1794751672,
+    "version": "0.7.5"
   }
 ]
