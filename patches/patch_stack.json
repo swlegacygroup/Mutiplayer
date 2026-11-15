@@ -1,0 +1,21 @@
+[
+  {
+    "archive_filename": "WhisperingValley_v0.7.0_3190a26e.pck",
+    "changelog": "Whispering Valley v0.7.0: Finite Resources Everywhere, Auto-Quit Update Sign, Real Campfire Night Illumination & 24h Sky Lighting.",
+    "github_archive_path": "patches/WhisperingValley_v0.7.0_3190a26e.pck",
+    "pck_bytes": 372988.0,
+    "pck_sha256": "3190a26eb2e1c4ba887b9970d49dd032b6cff9f46b64dcf377821d5f2e852efb",
+    "timestamp_unix": 1794744989.0,
+    "version": "0.7.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.0_16dbd6b3.pck",
+    "changelog": "Whispering Valley v0.7.0: Finite Resources Everywhere, Auto-Quit Update Sign, Real Campfire Night Illumination & 24h Sky Lighting.",
+    "content_hash": "26257891f40f44d85b83c8ed18fa909f9abcbb9006dbf13ad3cb160d6b54f576",
+    "github_archive_path": "patches/WhisperingValley_v0.7.0_16dbd6b3.pck",
+    "pck_bytes": 387452,
+    "pck_sha256": "16dbd6b3cef934fd955b320f4d19e07a4ca84f8fda7eeb39ba3fccbbbb6979d9",
+    "timestamp_unix": 1794746071,
+    "version": "0.7.0"
+  }
+]
