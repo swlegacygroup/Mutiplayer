@@ -1,0 +1,8 @@
+{
+  "latest_version": "0.2.0",
+  "announcement": "Whispering Valley Public Test Server",
+  "changelog": "Indie pixel-art upgrade, non-grid valley map, farming, fishing pier, and mobile controls.",
+  "download_url": "https://github.com/your-username/whispering-valley/releases/latest",
+  "public_server_address": "127.0.0.1",
+  "public_server_port": 7777
+}
