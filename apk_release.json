@@ -1,0 +1,12 @@
+{
+    "version":  "0.7.24",
+    "version_code":  31,
+    "apk_filename":  "Whispering.Valley.apk",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.24/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.24",
+    "apk_bytes":  30687207,
+    "apk_sha256":  "ddd5f231d2a61f7ae6798ea1936781581b822bf5d0c0721444ca7675042fec72",
+    "changelog":  "Whispering Valley v0.7.24: Android APK Update Pipeline (GitHub Releases APK check + direct download) while keeping PC on LatestVersion.pck.",
+    "public_server_address":  "127.0.0.1",
+    "public_server_port":  7777
+}
