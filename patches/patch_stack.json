@@ -123,9 +123,19 @@
     "changelog": "Whispering Valley v0.7.10: Permanent 10-Slot Hotbar, Exact Grid Prop Alignment, Crafting Cards, Pouch Grid & Eat HUD Fix.",
     "content_hash": "f019ab1ba153a819c4ed2df4551ffb363135482e221af36b223e10fdb2f9c09f",
     "github_archive_path": "patches/WhisperingValley_v0.7.10_db729f27.pck",
-    "pck_bytes": 1884280,
+    "pck_bytes": 1884280.0,
     "pck_sha256": "db729f27ecc34f40f08bcd9b4beb363b9f34269dc42503994cbd32b91d6bc00a",
-    "timestamp_unix": 1794902872,
+    "timestamp_unix": 1794902872.0,
     "version": "0.7.10"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.11_17796645.pck",
+    "changelog": "Whispering Valley v0.7.11: HP + Stamina Survival System, Wi-Fi/Hotspot LAN Auto-Discovery & Co-op Squad Beacons/Warp.",
+    "content_hash": "c1b08b1d4f2b66906003babfb8dae45d98df54d66f005af77d5d7ee87e673771",
+    "github_archive_path": "patches/WhisperingValley_v0.7.11_17796645.pck",
+    "pck_bytes": 1931968,
+    "pck_sha256": "177966452a2b165b661bb4907fe4ad8fda6db845b4f07f25a4ad0004dd4b47bd",
+    "timestamp_unix": 1794904525,
+    "version": "0.7.11"
   }
 ]
