@@ -113,9 +113,19 @@
     "changelog": "Whispering Valley v0.7.9: Random Seeded Worlds, Multi-World List, Multi-Tier Crafting & Discovery-Gated HUD.",
     "content_hash": "36f8d5b63a3a87e2381b8548ac1f795e6d7f0d35a07c16d3ac19e7757e639752",
     "github_archive_path": "patches/WhisperingValley_v0.7.9_8c69cebb.pck",
-    "pck_bytes": 1869336,
+    "pck_bytes": 1869336.0,
     "pck_sha256": "8c69cebb1633ed275d92ed6f7226ce60384a535ac1a5c451834f542406d528b5",
-    "timestamp_unix": 1794899100,
+    "timestamp_unix": 1794899100.0,
     "version": "0.7.9"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.10_db729f27.pck",
+    "changelog": "Whispering Valley v0.7.10: Permanent 10-Slot Hotbar, Exact Grid Prop Alignment, Crafting Cards, Pouch Grid & Eat HUD Fix.",
+    "content_hash": "f019ab1ba153a819c4ed2df4551ffb363135482e221af36b223e10fdb2f9c09f",
+    "github_archive_path": "patches/WhisperingValley_v0.7.10_db729f27.pck",
+    "pck_bytes": 1884280,
+    "pck_sha256": "db729f27ecc34f40f08bcd9b4beb363b9f34269dc42503994cbd32b91d6bc00a",
+    "timestamp_unix": 1794902872,
+    "version": "0.7.10"
   }
 ]
