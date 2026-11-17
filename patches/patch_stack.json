@@ -223,9 +223,19 @@
     "changelog": "Whispering Valley v0.7.18: Auto-Save Lifecycle, Mobile Back Navigation & Indie Stamina Gem Trail.",
     "content_hash": "3dee454573ec9fc1130e9cd98ac3c168f6ba6685cd69e6e627178b61df2d797c",
     "github_archive_path": "patches/WhisperingValley_v0.7.18_8fd3c62f.pck",
-    "pck_bytes": 2035432,
+    "pck_bytes": 2035432.0,
     "pck_sha256": "8fd3c62f6d1451c2940a58f84fc4a5667009407f2e8677324fea24e15b79a417",
-    "timestamp_unix": 1794915329,
+    "timestamp_unix": 1794915329.0,
     "version": "0.7.18"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.19_037ce104.pck",
+    "changelog": "Whispering Valley v0.7.19: Full-Grid Building Blocks, Pocket Wood Walls, Two-Sided Doorways & PC Menu Click Fix.",
+    "content_hash": "7d5bb0a7f65c84ed2ecd61d44e54120036d874f9c24b14df04998016a1294fbf",
+    "github_archive_path": "patches/WhisperingValley_v0.7.19_037ce104.pck",
+    "pck_bytes": 2053128,
+    "pck_sha256": "037ce104c99d4916d1ed5c0e1ffd346dd646b1c751320332ee27ce61514ab11c",
+    "timestamp_unix": 1794916785,
+    "version": "0.7.19"
   }
 ]
