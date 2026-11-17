@@ -273,9 +273,29 @@
     "changelog": "Whispering Valley v0.7.21: Host-Authoritative Multiplayer Sync, Mobs Target Guests, Mobile Bottom 1x10 Hotbar, Attack & Sprint Buttons, Hotbar Use Food, and Player Death Animation.",
     "content_hash": "1621eb79c16290b9b730f3474214b3c434d65ad0b409472e6ab0388dbf981fb9",
     "github_archive_path": "patches/WhisperingValley_v0.7.21_8aac8985.pck",
-    "pck_bytes": 2140452,
+    "pck_bytes": 2140452.0,
     "pck_sha256": "8aac89852ff96ebe4400f29e65fce181fda26be9bc842fc64b566b0f233acf3e",
-    "timestamp_unix": 1794921765,
+    "timestamp_unix": 1794921765.0,
     "version": "0.7.21"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.22_5f27f22c.pck",
+    "changelog": "Whispering Valley v0.7.22: Soft Torch Glow, Universal Floor Stacking, Wall Stealth & Combat Blocking, Smart Mob Obstacle AI, Edible Wild Berries, Craftable Fishing Pole, Block Durability Cracks, Bottom Bag Button, Player Hurt Knockback, and Persistent Placement Preview.",
+    "content_hash": "8b5007fb58ab57cc91c07ff2c53e25055f9d90468d78f3a3a55547e2647b887a",
+    "github_archive_path": "patches/WhisperingValley_v0.7.22_5f27f22c.pck",
+    "pck_bytes": 2169924.0,
+    "pck_sha256": "5f27f22c02d4ce6aaea87e8da002739afb5b57bd9d3bcfebb4e97a7b52f8c20a",
+    "timestamp_unix": 1794923504.0,
+    "version": "0.7.22"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.22_ae4006f7.pck",
+    "changelog": "Whispering Valley v0.7.22: Soft Torch Glow, Universal Floor Stacking, Wall Stealth & Combat Blocking, Smart Mob Obstacle AI, Edible Wild Berries, Craftable Fishing Pole, Block Durability Cracks, Bottom Bag Button, Player Hurt Knockback, and Persistent Placement Preview.",
+    "content_hash": "bf6687ad0f90d1f22a6866c6c086c75f31b8e13da90d7b7c1ca31f6dc60e4736",
+    "github_archive_path": "patches/WhisperingValley_v0.7.22_ae4006f7.pck",
+    "pck_bytes": 2192936,
+    "pck_sha256": "ae4006f70a57379c6bd84ab623291f0de8b92d8db9cdc626395535e38f07c731",
+    "timestamp_unix": 1794923742,
+    "version": "0.7.22"
   }
 ]
