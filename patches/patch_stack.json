@@ -103,9 +103,19 @@
     "changelog": "Whispering Valley v0.7.8: Reliable Mobile Patch Staging, Warm-Process Reload & Android Lighting Fix.",
     "content_hash": "cd732978a0f450a85f7f1e17bc1419b9846984a1d7a9c9d8632d376a458e501b",
     "github_archive_path": "patches/WhisperingValley_v0.7.8_31dc3ce1.pck",
-    "pck_bytes": 1810876,
+    "pck_bytes": 1810876.0,
     "pck_sha256": "31dc3ce1e433aa046eeb3643212ffbf875efe4e8e4dd445708d6a53c995f6dab",
-    "timestamp_unix": 1794779759,
+    "timestamp_unix": 1794779759.0,
     "version": "0.7.8"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.9_8c69cebb.pck",
+    "changelog": "Whispering Valley v0.7.9: Random Seeded Worlds, Multi-World List, Multi-Tier Crafting & Discovery-Gated HUD.",
+    "content_hash": "36f8d5b63a3a87e2381b8548ac1f795e6d7f0d35a07c16d3ac19e7757e639752",
+    "github_archive_path": "patches/WhisperingValley_v0.7.9_8c69cebb.pck",
+    "pck_bytes": 1869336,
+    "pck_sha256": "8c69cebb1633ed275d92ed6f7226ce60384a535ac1a5c451834f542406d528b5",
+    "timestamp_unix": 1794899100,
+    "version": "0.7.9"
   }
 ]
