@@ -153,9 +153,19 @@
     "changelog": "Whispering Valley v0.7.13: Harmless & Night-Only Mobs, Craftable Weapons, Wood Blocks, Pause Valley Settings, Dynamic Heart Vitals & You Died Overlay.",
     "content_hash": "036ca15d51db4ad4656e2bdc29dfef5ba3cd9b964d5e3742c15f9da1b73eea6c",
     "github_archive_path": "patches/WhisperingValley_v0.7.13_5c8aefa4.pck",
-    "pck_bytes": 1983784,
+    "pck_bytes": 1983784.0,
     "pck_sha256": "5c8aefa475cf529fd73891748f020983fbcd5baae02f5ebbcf88ba71689e5d40",
-    "timestamp_unix": 1794907737,
+    "timestamp_unix": 1794907737.0,
     "version": "0.7.13"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.14_4941784c.pck",
+    "changelog": "Whispering Valley v0.7.14: Redesigned Big 48x48 Condition Heart, Sculpted Stamina Crest & Bar-Free Upper-Left HUD.",
+    "content_hash": "c8a5d13853805ad18795aa9eb170f64f9cf9d0ea7ff3af63a48af1983b75d502",
+    "github_archive_path": "patches/WhisperingValley_v0.7.14_4941784c.pck",
+    "pck_bytes": 1992520,
+    "pck_sha256": "4941784c62bf278f8cf0227682b11aba1becb794c5e3851d5e0cc91bdb671469",
+    "timestamp_unix": 1794909671,
+    "version": "0.7.14"
   }
 ]
