@@ -133,9 +133,19 @@
     "changelog": "Whispering Valley v0.7.11: HP + Stamina Survival System, Wi-Fi/Hotspot LAN Auto-Discovery & Co-op Squad Beacons/Warp.",
     "content_hash": "c1b08b1d4f2b66906003babfb8dae45d98df54d66f005af77d5d7ee87e673771",
     "github_archive_path": "patches/WhisperingValley_v0.7.11_17796645.pck",
-    "pck_bytes": 1931968,
+    "pck_bytes": 1931968.0,
     "pck_sha256": "177966452a2b165b661bb4907fe4ad8fda6db845b4f07f25a4ad0004dd4b47bd",
-    "timestamp_unix": 1794904525,
+    "timestamp_unix": 1794904525.0,
     "version": "0.7.11"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.12_bb80b4b6.pck",
+    "changelog": "Whispering Valley v0.7.12: Aesthetic 3-Row Vitals Plaque & Scroll-Safe Non-Overlapping Modals.",
+    "content_hash": "281045deebe11acaa2d54d50ca0c33802095a2eea5528cb518b843f70800e9d8",
+    "github_archive_path": "patches/WhisperingValley_v0.7.12_bb80b4b6.pck",
+    "pck_bytes": 1937692,
+    "pck_sha256": "bb80b4b6de09af7b94e53874959d034f4c11bdf9456e9932be0e2c6ff1af6f01",
+    "timestamp_unix": 1794905427,
+    "version": "0.7.12"
   }
 ]
