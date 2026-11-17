@@ -193,9 +193,19 @@
     "changelog": "Whispering Valley v0.7.17: Liquid-Filled Injury Heart (Centered HP) & Sculpted 5-Pill Stamina HUD.",
     "content_hash": "794e6296967a1323196743dcb9ec23517bdab63a0dbc58013e44fb0e89276929",
     "github_archive_path": "patches/WhisperingValley_v0.7.17_f34abdd0.pck",
-    "pck_bytes": 2032072,
+    "pck_bytes": 2032072.0,
     "pck_sha256": "f34abdd06e2a5d578cc8cf962f2465a19ec4bc9c416839e803d3380b7a0b77ab",
-    "timestamp_unix": 1794912937,
+    "timestamp_unix": 1794912937.0,
+    "version": "0.7.17"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.17_3edc58a6.pck",
+    "changelog": "Whispering Valley v0.7.17: Liquid-Filled Injury Heart (Centered HP) & Sculpted 5-Pill Stamina HUD.",
+    "content_hash": "c8a99a571ed83e91bfeb8b490310a5a6b2582e4b6e3e5b4d820a1eba32d633c1",
+    "github_archive_path": "patches/WhisperingValley_v0.7.17_3edc58a6.pck",
+    "pck_bytes": 2032456,
+    "pck_sha256": "3edc58a63e6d16bc8e37531c7e78e62058d973a61ce1493def7f7bc59bbe715b",
+    "timestamp_unix": 1794913529,
     "version": "0.7.17"
   }
 ]
