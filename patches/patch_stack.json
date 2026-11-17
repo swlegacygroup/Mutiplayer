@@ -213,9 +213,19 @@
     "changelog": "Whispering Valley v0.7.18: Auto-Save Lifecycle, Mobile Back Navigation & Indie Stamina Gem Trail.",
     "content_hash": "f7620c2341bc029e99bd8f30d9d1b06ed1b20069779a277409209b26c301b449",
     "github_archive_path": "patches/WhisperingValley_v0.7.18_caccb91a.pck",
-    "pck_bytes": 2035432,
+    "pck_bytes": 2035432.0,
     "pck_sha256": "caccb91ae91aea4727f6a4d530fbc60266bed558e38c9a7ec2793ee408b12ba7",
-    "timestamp_unix": 1794915065,
+    "timestamp_unix": 1794915065.0,
+    "version": "0.7.18"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.18_8fd3c62f.pck",
+    "changelog": "Whispering Valley v0.7.18: Auto-Save Lifecycle, Mobile Back Navigation & Indie Stamina Gem Trail.",
+    "content_hash": "3dee454573ec9fc1130e9cd98ac3c168f6ba6685cd69e6e627178b61df2d797c",
+    "github_archive_path": "patches/WhisperingValley_v0.7.18_8fd3c62f.pck",
+    "pck_bytes": 2035432,
+    "pck_sha256": "8fd3c62f6d1451c2940a58f84fc4a5667009407f2e8677324fea24e15b79a417",
+    "timestamp_unix": 1794915329,
     "version": "0.7.18"
   }
 ]
