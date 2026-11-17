@@ -233,9 +233,29 @@
     "changelog": "Whispering Valley v0.7.19: Full-Grid Building Blocks, Pocket Wood Walls, Two-Sided Doorways & PC Menu Click Fix.",
     "content_hash": "7d5bb0a7f65c84ed2ecd61d44e54120036d874f9c24b14df04998016a1294fbf",
     "github_archive_path": "patches/WhisperingValley_v0.7.19_037ce104.pck",
-    "pck_bytes": 2053128,
+    "pck_bytes": 2053128.0,
     "pck_sha256": "037ce104c99d4916d1ed5c0e1ffd346dd646b1c751320332ee27ce61514ab11c",
-    "timestamp_unix": 1794916785,
+    "timestamp_unix": 1794916785.0,
     "version": "0.7.19"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.20_6d0b524d.pck",
+    "changelog": "Whispering Valley v0.7.20: Full-Game Patch Bundle, Mobile Updater Fixes, Pause HUD Hiding & Deep Chunk Optimization.",
+    "content_hash": "cf7212b1eb3f474e85ad8c0d0ef2f620c162162929d38d0639fc412be6209e06",
+    "github_archive_path": "patches/WhisperingValley_v0.7.20_6d0b524d.pck",
+    "pck_bytes": 2156216.0,
+    "pck_sha256": "6d0b524d9ce3a90ef2174048ec3132bee4bfa2bfe407a095f77eac4dd42ddd7c",
+    "timestamp_unix": 1794917737.0,
+    "version": "0.7.20"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.20_250b7cc0.pck",
+    "changelog": "Whispering Valley v0.7.20: Full-Game Patch Bundle, Mobile Updater Fixes, Pause HUD Hiding & Deep Chunk Optimization.",
+    "content_hash": "5d979a624d16ad56e09a9c8e4a483e8da63597fd232e7414599259fe9dc19693",
+    "github_archive_path": "patches/WhisperingValley_v0.7.20_250b7cc0.pck",
+    "pck_bytes": 2173208,
+    "pck_sha256": "250b7cc0f0718353d2f30a333c9b85b479465c88b4d48d00cfeb1113aa7f9d0b",
+    "timestamp_unix": 1794917972,
+    "version": "0.7.20"
   }
 ]
