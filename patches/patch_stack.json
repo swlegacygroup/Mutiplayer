@@ -293,9 +293,29 @@
     "changelog": "Whispering Valley v0.7.22: Soft Torch Glow, Universal Floor Stacking, Wall Stealth & Combat Blocking, Smart Mob Obstacle AI, Edible Wild Berries, Craftable Fishing Pole, Block Durability Cracks, Bottom Bag Button, Player Hurt Knockback, and Persistent Placement Preview.",
     "content_hash": "bf6687ad0f90d1f22a6866c6c086c75f31b8e13da90d7b7c1ca31f6dc60e4736",
     "github_archive_path": "patches/WhisperingValley_v0.7.22_ae4006f7.pck",
-    "pck_bytes": 2192936,
+    "pck_bytes": 2192936.0,
     "pck_sha256": "ae4006f70a57379c6bd84ab623291f0de8b92d8db9cdc626395535e38f07c731",
-    "timestamp_unix": 1794923742,
+    "timestamp_unix": 1794923742.0,
     "version": "0.7.22"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.23_dbccb33f.pck",
+    "changelog": "Whispering Valley v0.7.23: MOBA Circular Touch Controls, Adjustable Joystick & Button Sizes (70%-150%), and Craftable Cozy Bed with 6s Solo/Multiplayer Time Skip.",
+    "content_hash": "7e42bc5d486ff1a2e82982d7c3ad8ff81412c07a5bedfb2b1e9b9493acd69cd8",
+    "github_archive_path": "patches/WhisperingValley_v0.7.23_dbccb33f.pck",
+    "pck_bytes": 2242792.0,
+    "pck_sha256": "dbccb33f9d27b3260c03e12a82bab9d98dbda08407c381720e00df920471d9ad",
+    "timestamp_unix": 1794925367.0,
+    "version": "0.7.23"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.23_fd54b216.pck",
+    "changelog": "Whispering Valley v0.7.23: MOBA Circular Touch Controls, Adjustable Joystick & Button Sizes (70%-150%), and Craftable Cozy Bed with 6s Solo/Multiplayer Time Skip.",
+    "content_hash": "11447b0ccbd72d6c274065732b972f4b9e42136cddda46fc0aa8ab1cefa2ae6b",
+    "github_archive_path": "patches/WhisperingValley_v0.7.23_fd54b216.pck",
+    "pck_bytes": 2268364,
+    "pck_sha256": "fd54b2164aeabfa60a9e8364cbdfa4aec7e33b5ab672dfa01990418163b495fd",
+    "timestamp_unix": 1794925673,
+    "version": "0.7.23"
   }
 ]
