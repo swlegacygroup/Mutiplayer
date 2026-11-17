@@ -143,9 +143,19 @@
     "changelog": "Whispering Valley v0.7.12: Aesthetic 3-Row Vitals Plaque & Scroll-Safe Non-Overlapping Modals.",
     "content_hash": "281045deebe11acaa2d54d50ca0c33802095a2eea5528cb518b843f70800e9d8",
     "github_archive_path": "patches/WhisperingValley_v0.7.12_bb80b4b6.pck",
-    "pck_bytes": 1937692,
+    "pck_bytes": 1937692.0,
     "pck_sha256": "bb80b4b6de09af7b94e53874959d034f4c11bdf9456e9932be0e2c6ff1af6f01",
-    "timestamp_unix": 1794905427,
+    "timestamp_unix": 1794905427.0,
     "version": "0.7.12"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.13_5c8aefa4.pck",
+    "changelog": "Whispering Valley v0.7.13: Harmless & Night-Only Mobs, Craftable Weapons, Wood Blocks, Pause Valley Settings, Dynamic Heart Vitals & You Died Overlay.",
+    "content_hash": "036ca15d51db4ad4656e2bdc29dfef5ba3cd9b964d5e3742c15f9da1b73eea6c",
+    "github_archive_path": "patches/WhisperingValley_v0.7.13_5c8aefa4.pck",
+    "pck_bytes": 1983784,
+    "pck_sha256": "5c8aefa475cf529fd73891748f020983fbcd5baae02f5ebbcf88ba71689e5d40",
+    "timestamp_unix": 1794907737,
+    "version": "0.7.13"
   }
 ]
