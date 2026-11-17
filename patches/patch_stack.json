@@ -163,9 +163,19 @@
     "changelog": "Whispering Valley v0.7.14: Redesigned Big 48x48 Condition Heart, Sculpted Stamina Crest & Bar-Free Upper-Left HUD.",
     "content_hash": "c8a5d13853805ad18795aa9eb170f64f9cf9d0ea7ff3af63a48af1983b75d502",
     "github_archive_path": "patches/WhisperingValley_v0.7.14_4941784c.pck",
-    "pck_bytes": 1992520,
+    "pck_bytes": 1992520.0,
     "pck_sha256": "4941784c62bf278f8cf0227682b11aba1becb794c5e3851d5e0cc91bdb671469",
-    "timestamp_unix": 1794909671,
+    "timestamp_unix": 1794909671.0,
     "version": "0.7.14"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.15_86005713.pck",
+    "changelog": "Whispering Valley v0.7.15: Field-Based Leave & Return-Chance Mob Respawn Protocol.",
+    "content_hash": "027e19eb517fa245cf6321753e2618ec0bd2a11e78baffa401c6271bb1e33d59",
+    "github_archive_path": "patches/WhisperingValley_v0.7.15_86005713.pck",
+    "pck_bytes": 1996488,
+    "pck_sha256": "86005713e8aa884818c55c03dc188f72aa07ade3babb3b98c947be34962e994f",
+    "timestamp_unix": 1794910523,
+    "version": "0.7.15"
   }
 ]
