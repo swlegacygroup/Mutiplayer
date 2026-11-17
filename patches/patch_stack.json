@@ -313,9 +313,29 @@
     "changelog": "Whispering Valley v0.7.23: MOBA Circular Touch Controls, Adjustable Joystick & Button Sizes (70%-150%), and Craftable Cozy Bed with 6s Solo/Multiplayer Time Skip.",
     "content_hash": "11447b0ccbd72d6c274065732b972f4b9e42136cddda46fc0aa8ab1cefa2ae6b",
     "github_archive_path": "patches/WhisperingValley_v0.7.23_fd54b216.pck",
-    "pck_bytes": 2268364,
+    "pck_bytes": 2268364.0,
     "pck_sha256": "fd54b2164aeabfa60a9e8364cbdfa4aec7e33b5ab672dfa01990418163b495fd",
-    "timestamp_unix": 1794925673,
+    "timestamp_unix": 1794925673.0,
     "version": "0.7.23"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.24_3a1be741.pck",
+    "changelog": "Whispering Valley v0.7.24: Android APK Update Pipeline (GitHub Releases APK check + direct download) while keeping PC on LatestVersion.pck.",
+    "content_hash": "7392614b4ee1a5fe97f45df1dcba78e1e6a497f1be7998532f4db611c3ac5f66",
+    "github_archive_path": "patches/WhisperingValley_v0.7.24_3a1be741.pck",
+    "pck_bytes": 2283408.0,
+    "pck_sha256": "3a1be741381672c59a6c443c0232cc0966b998196b03a5c7a75fe10195234799",
+    "timestamp_unix": 1794956300.0,
+    "version": "0.7.24"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.24_2be1759c.pck",
+    "changelog": "Whispering Valley v0.7.24: Android APK Update Pipeline (GitHub Releases APK check + direct download) while keeping PC on LatestVersion.pck.",
+    "content_hash": "1c55963d615ed75c26cd746d6018f32161f98d8669e19245a04906468d7757fd",
+    "github_archive_path": "patches/WhisperingValley_v0.7.24_2be1759c.pck",
+    "pck_bytes": 2309980,
+    "pck_sha256": "2be1759ca6df7298e7e528e81f9bfa4066b8f92c1711987710b8d5bae863cb7c",
+    "timestamp_unix": 1794956670,
+    "version": "0.7.24"
   }
 ]
