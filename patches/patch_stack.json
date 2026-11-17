@@ -173,9 +173,19 @@
     "changelog": "Whispering Valley v0.7.15: Field-Based Leave & Return-Chance Mob Respawn Protocol.",
     "content_hash": "027e19eb517fa245cf6321753e2618ec0bd2a11e78baffa401c6271bb1e33d59",
     "github_archive_path": "patches/WhisperingValley_v0.7.15_86005713.pck",
-    "pck_bytes": 1996488,
+    "pck_bytes": 1996488.0,
     "pck_sha256": "86005713e8aa884818c55c03dc188f72aa07ade3babb3b98c947be34962e994f",
-    "timestamp_unix": 1794910523,
+    "timestamp_unix": 1794910523.0,
     "version": "0.7.15"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.16_43324d3a.pck",
+    "changelog": "Whispering Valley v0.7.16: Unified 40-Slot (x64 Stack) Hotbar-First Pouch Organizer & Weapons on Hotbar.",
+    "content_hash": "37779faed9c7f8407671a414e0ed61dae5f198c267db404410fff475bfa111cd",
+    "github_archive_path": "patches/WhisperingValley_v0.7.16_43324d3a.pck",
+    "pck_bytes": 2021288,
+    "pck_sha256": "43324d3acef99c83f372c43d785a498c0872ed77f2006c09b44482575418ea90",
+    "timestamp_unix": 1794911940,
+    "version": "0.7.16"
   }
 ]
