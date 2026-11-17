@@ -253,9 +253,29 @@
     "changelog": "Whispering Valley v0.7.20: Full-Game Patch Bundle, Mobile Updater Fixes, Pause HUD Hiding & Deep Chunk Optimization.",
     "content_hash": "5d979a624d16ad56e09a9c8e4a483e8da63597fd232e7414599259fe9dc19693",
     "github_archive_path": "patches/WhisperingValley_v0.7.20_250b7cc0.pck",
-    "pck_bytes": 2173208,
+    "pck_bytes": 2173208.0,
     "pck_sha256": "250b7cc0f0718353d2f30a333c9b85b479465c88b4d48d00cfeb1113aa7f9d0b",
-    "timestamp_unix": 1794917972,
+    "timestamp_unix": 1794917972.0,
     "version": "0.7.20"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.21_cc9a226f.pck",
+    "changelog": "Whispering Valley v0.7.21: Host-Authoritative Multiplayer Sync, Mobs Target Guests, Mobile Bottom 1x10 Hotbar, Attack & Sprint Buttons, Hotbar Use Food, and Player Death Animation.",
+    "content_hash": "e4c1dce5101b5b8e5d434acf050bbe38f04fc255d7457c6e9cf0e99328a3cdda",
+    "github_archive_path": "patches/WhisperingValley_v0.7.21_cc9a226f.pck",
+    "pck_bytes": 2117560.0,
+    "pck_sha256": "cc9a226f1d1977f2f28c2707e2d128b1e8a89e21bbb51065d2a9a590e51a668b",
+    "timestamp_unix": 1794921553.0,
+    "version": "0.7.21"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.21_8aac8985.pck",
+    "changelog": "Whispering Valley v0.7.21: Host-Authoritative Multiplayer Sync, Mobs Target Guests, Mobile Bottom 1x10 Hotbar, Attack & Sprint Buttons, Hotbar Use Food, and Player Death Animation.",
+    "content_hash": "1621eb79c16290b9b730f3474214b3c434d65ad0b409472e6ab0388dbf981fb9",
+    "github_archive_path": "patches/WhisperingValley_v0.7.21_8aac8985.pck",
+    "pck_bytes": 2140452,
+    "pck_sha256": "8aac89852ff96ebe4400f29e65fce181fda26be9bc842fc64b566b0f233acf3e",
+    "timestamp_unix": 1794921765,
+    "version": "0.7.21"
   }
 ]
