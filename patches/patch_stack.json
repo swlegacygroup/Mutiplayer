@@ -183,9 +183,19 @@
     "changelog": "Whispering Valley v0.7.16: Unified 40-Slot (x64 Stack) Hotbar-First Pouch Organizer & Weapons on Hotbar.",
     "content_hash": "37779faed9c7f8407671a414e0ed61dae5f198c267db404410fff475bfa111cd",
     "github_archive_path": "patches/WhisperingValley_v0.7.16_43324d3a.pck",
-    "pck_bytes": 2021288,
+    "pck_bytes": 2021288.0,
     "pck_sha256": "43324d3acef99c83f372c43d785a498c0872ed77f2006c09b44482575418ea90",
-    "timestamp_unix": 1794911940,
+    "timestamp_unix": 1794911940.0,
     "version": "0.7.16"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.17_f34abdd0.pck",
+    "changelog": "Whispering Valley v0.7.17: Liquid-Filled Injury Heart (Centered HP) & Sculpted 5-Pill Stamina HUD.",
+    "content_hash": "794e6296967a1323196743dcb9ec23517bdab63a0dbc58013e44fb0e89276929",
+    "github_archive_path": "patches/WhisperingValley_v0.7.17_f34abdd0.pck",
+    "pck_bytes": 2032072,
+    "pck_sha256": "f34abdd06e2a5d578cc8cf962f2465a19ec4bc9c416839e803d3380b7a0b77ab",
+    "timestamp_unix": 1794912937,
+    "version": "0.7.17"
   }
 ]
