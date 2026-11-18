@@ -463,9 +463,29 @@
     "changelog": "Whispering Valley v0.7.32: Pickaxe Mining Progression, Non-Placeable Raw Ores, Visible Held Items & Item Dropping.",
     "content_hash": "a7614a69c9f17ebb4203a095a85aa3ac0f1f09f7553139a1424ace254a56ed3e",
     "github_archive_path": "patches/WhisperingValley_v0.7.32_466965f5.pck",
-    "pck_bytes": 2818508,
+    "pck_bytes": 2818508.0,
     "pck_sha256": "466965f54ccf99643222f2a3aaf9678bbb6fb49658bdc287364b5049871d2704",
-    "timestamp_unix": 1795009472,
+    "timestamp_unix": 1795009472.0,
     "version": "0.7.32"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.33_ee5759ea.pck",
+    "changelog": "Whispering Valley v0.7.33: Smart Biome Clustering (Forest Groves & Boulder Fields) + Rare Sakura Grove & Emerald Jungle Biomes.",
+    "content_hash": "0053656565add08157bbebd6fb8a514c877f8b1f3e8baee0c274515bf8b9faf1",
+    "github_archive_path": "patches/WhisperingValley_v0.7.33_ee5759ea.pck",
+    "pck_bytes": 2883484.0,
+    "pck_sha256": "ee5759ea17968de8b93930ace15c5eea56c1f073b7094f6bf3b87a992ac18a38",
+    "timestamp_unix": 1795011266.0,
+    "version": "0.7.33"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.33_fdd73ae1.pck",
+    "changelog": "Whispering Valley v0.7.33: Smart Biome Clustering (Forest Groves & Boulder Fields) + Rare Sakura Grove & Emerald Jungle Biomes.",
+    "content_hash": "bc237ab6c7a28606c242057b04cbc72698a85c85ea775e3b97bc5bd506603a4e",
+    "github_archive_path": "patches/WhisperingValley_v0.7.33_fdd73ae1.pck",
+    "pck_bytes": 2963104,
+    "pck_sha256": "fdd73ae1cae3d9e2e88ed0a3bb7d73db1f50a40f9422b90187b9fd1863f17313",
+    "timestamp_unix": 1795011795,
+    "version": "0.7.33"
   }
 ]
