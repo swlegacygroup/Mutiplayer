@@ -483,9 +483,29 @@
     "changelog": "Whispering Valley v0.7.33: Smart Biome Clustering (Forest Groves & Boulder Fields) + Rare Sakura Grove & Emerald Jungle Biomes.",
     "content_hash": "bc237ab6c7a28606c242057b04cbc72698a85c85ea775e3b97bc5bd506603a4e",
     "github_archive_path": "patches/WhisperingValley_v0.7.33_fdd73ae1.pck",
-    "pck_bytes": 2963104,
+    "pck_bytes": 2963104.0,
     "pck_sha256": "fdd73ae1cae3d9e2e88ed0a3bb7d73db1f50a40f9422b90187b9fd1863f17313",
-    "timestamp_unix": 1795011795,
+    "timestamp_unix": 1795011795.0,
     "version": "0.7.33"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.34_d1a3f6d9.pck",
+    "changelog": "Whispering Valley v0.7.34: Break-Only Resource Yields + Context-Smart Mobile Controls & Hold-to-Drop Hotbar.",
+    "content_hash": "8c6f767843aff1680091b348d1e9a137a2cd3e28762548d83401fdab148bcdaf",
+    "github_archive_path": "patches/WhisperingValley_v0.7.34_d1a3f6d9.pck",
+    "pck_bytes": 3010700.0,
+    "pck_sha256": "d1a3f6d97901b4ff026e15b4bfa6b439a0b2b4fe562fcf60987753e0ee7d1f30",
+    "timestamp_unix": 1795012857.0,
+    "version": "0.7.34"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.34_5b8c0db1.pck",
+    "changelog": "Whispering Valley v0.7.34: Break-Only Resource Yields + Context-Smart Mobile Controls & Hold-to-Drop Hotbar.",
+    "content_hash": "17afec247b9083a53eaa17b9643dcb28acd5a8bc1f044bc470361460f4fde881",
+    "github_archive_path": "patches/WhisperingValley_v0.7.34_5b8c0db1.pck",
+    "pck_bytes": 3039880,
+    "pck_sha256": "5b8c0db1767972d39927289daa85b20c5723d7613099600f1920ef4df017c7bf",
+    "timestamp_unix": 1795013023,
+    "version": "0.7.34"
   }
 ]
