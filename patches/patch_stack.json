@@ -333,9 +333,119 @@
     "changelog": "Whispering Valley v0.7.24: Android APK Update Pipeline (GitHub Releases APK check + direct download) while keeping PC on LatestVersion.pck.",
     "content_hash": "1c55963d615ed75c26cd746d6018f32161f98d8669e19245a04906468d7757fd",
     "github_archive_path": "patches/WhisperingValley_v0.7.24_2be1759c.pck",
-    "pck_bytes": 2309980,
+    "pck_bytes": 2309980.0,
     "pck_sha256": "2be1759ca6df7298e7e528e81f9bfa4066b8f92c1711987710b8d5bae863cb7c",
-    "timestamp_unix": 1794956670,
+    "timestamp_unix": 1794956670.0,
     "version": "0.7.24"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.25_4c9cc5bc.pck",
+    "changelog": "Whispering Valley v0.7.25: Stardew Farming, Weather, Sprinklers, Preserves Jar & Shipping Bin Economy.",
+    "content_hash": "c6a2e7db92c38bf32eb182da60c75a66ebff606bb745c8d5e5fc35ba2fa89227",
+    "github_archive_path": "patches/WhisperingValley_v0.7.25_4c9cc5bc.pck",
+    "pck_bytes": 2348956.0,
+    "pck_sha256": "4c9cc5bc422eb8a07fec039ff55c7c0fdc3885e70476e0ec6d7edfb28288d9f3",
+    "timestamp_unix": 1794996711.0,
+    "version": "0.7.25"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.25_d62ab99a.pck",
+    "changelog": "Whispering Valley v0.7.25: Stardew Farming, Weather, Sprinklers, Preserves Jar & Shipping Bin Economy.",
+    "content_hash": "6fa35d1fa840dbf4916575aff022acbc3bfc311ede59e3cc26b581ceeadc067a",
+    "github_archive_path": "patches/WhisperingValley_v0.7.25_d62ab99a.pck",
+    "pck_bytes": 2357696.0,
+    "pck_sha256": "d62ab99a2e5de003c0e81fb72ea0c40fb6391a993856b298dd50913ce3170c37",
+    "timestamp_unix": 1794996999.0,
+    "version": "0.7.25"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.26_af910eb3.pck",
+    "changelog": "Whispering Valley v0.7.26: Connected Walls, Glass Windows, Wall Lanterns, Pressure Plates, Cozy Shelters & Tameable Ranch Animals.",
+    "content_hash": "e78575bb506e8cd96ddb5fb761e7838717ee771f38b7ed5d3158e3ff554961e5",
+    "github_archive_path": "patches/WhisperingValley_v0.7.26_af910eb3.pck",
+    "pck_bytes": 2398500.0,
+    "pck_sha256": "af910eb364848527cd91e8da906e83b1aab39fe3f17f8864503501f0020fbd01",
+    "timestamp_unix": 1794997994.0,
+    "version": "0.7.26"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.26_1f2d6644.pck",
+    "changelog": "Whispering Valley v0.7.26: Connected Walls, Glass Windows, Wall Lanterns, Pressure Plates, Cozy Shelters & Tameable Ranch Animals.",
+    "content_hash": "bc46774b208547a5b62dad4da0d043b6b004dee8f293981dd0bdf8ff08811a5a",
+    "github_archive_path": "patches/WhisperingValley_v0.7.26_1f2d6644.pck",
+    "pck_bytes": 2407240.0,
+    "pck_sha256": "1f2d6644ba71220d1322ba7ea597f1a2289f8ddf5ed7b503f82f4ba8b14997d2",
+    "timestamp_unix": 1794998285.0,
+    "version": "0.7.26"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.27_401088df.pck",
+    "changelog": "Whispering Valley v0.7.27: Minimal Terraria Trinkets, Ranged Weapons, Crystal Golem, Slime Sovereign Mini-Boss & Quick-Stack Chests.",
+    "content_hash": "ee2d8493f0aebd56f5c9c6b49f35436e98f55c8aef32b5a8be0ee06c67657a0d",
+    "github_archive_path": "patches/WhisperingValley_v0.7.27_401088df.pck",
+    "pck_bytes": 2443532.0,
+    "pck_sha256": "401088dfda03fe7ed19a561bd2175d0f8c690fc927d119be4bc802a95357762d",
+    "timestamp_unix": 1794999369.0,
+    "version": "0.7.27"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.28_ce42b6f0.pck",
+    "changelog": "Whispering Valley v0.7.28: Submenu Touch Swipe & Button Polish, Ranged Auto-Aim, Prompt/Preview Fixes, Co-op Sync & Performance Optimization.",
+    "content_hash": "f1fdef2aff7e60dedad72e7776ced8d0834591eab58527f241585faf200a6328",
+    "github_archive_path": "patches/WhisperingValley_v0.7.28_ce42b6f0.pck",
+    "pck_bytes": 2467380.0,
+    "pck_sha256": "ce42b6f0575101dd1d2ed1f565b0fa9f6138129a632a065f45c5bae59389784b",
+    "timestamp_unix": 1795001013.0,
+    "version": "0.7.28"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.28_18934984.pck",
+    "changelog": "Whispering Valley v0.7.28: Submenu Touch Swipe & Button Polish, Ranged Auto-Aim, Prompt/Preview Fixes, Co-op Sync & Performance Optimization.",
+    "content_hash": "f375878276bc19c2c60f7dd2399961dfdb9682ecbdaa3d1eb1fb18748720de04",
+    "github_archive_path": "patches/WhisperingValley_v0.7.28_18934984.pck",
+    "pck_bytes": 2501548.0,
+    "pck_sha256": "18934984c549b4349d8c1a6bb11593567f38759fc4f7a1d2c1e1c4ae8293a57c",
+    "timestamp_unix": 1795001387.0,
+    "version": "0.7.28"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.29_2836054d.pck",
+    "changelog": "Whispering Valley v0.7.29: Pouch Text Fix, Smart Off-Screen 0.85x Camera Mob Spawning & Weather HUD Polish.",
+    "content_hash": "3d36ce3748c2a9435b1c4ec5fd2dcc9a2724ad7f0cc7480b4c04dca0170e916b",
+    "github_archive_path": "patches/WhisperingValley_v0.7.29_2836054d.pck",
+    "pck_bytes": 2507948.0,
+    "pck_sha256": "2836054d5ad9447ca2832d82d24f251cdde7bd32c41a2e413241ab00ead956db",
+    "timestamp_unix": 1795002792.0,
+    "version": "0.7.29"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.30_46dae687.pck",
+    "changelog": "Whispering Valley v0.7.30: Realistic House & Shelter Rain Blockage, Outdoor Roof Splashes & Indoor Crop Protection.",
+    "content_hash": "44c6979b61f80294b759b0c1e0541c07893e524fdd584c7e511df5bc277dd4df",
+    "github_archive_path": "patches/WhisperingValley_v0.7.30_46dae687.pck",
+    "pck_bytes": 2534744.0,
+    "pck_sha256": "46dae68768cd19a8eb42fb0123e74f98ce384f1efc8414e0fb0cc7a1b53f29fc",
+    "timestamp_unix": 1795003992.0,
+    "version": "0.7.30"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.31_8fab9b2c.pck",
+    "changelog": "Whispering Valley v0.7.31: Garden Hoe Tilled Dirt Maintenance & Craftable Wooden Rowboat for Water Exploration.",
+    "content_hash": "8fe32d99d7e07c1d9f673cbf8555c978b66fe1823a2fd2750a30cd3c380b56f4",
+    "github_archive_path": "patches/WhisperingValley_v0.7.31_8fab9b2c.pck",
+    "pck_bytes": 2636060.0,
+    "pck_sha256": "8fab9b2c1cd388dfc41b2c7c685edf3b0176076483d3931977557b4d3a4a7bd0",
+    "timestamp_unix": 1795006528.0,
+    "version": "0.7.31"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.31_a849177b.pck",
+    "changelog": "Whispering Valley v0.7.31: Garden Hoe Tilled Dirt Maintenance & Craftable Wooden Rowboat for Water Exploration.",
+    "content_hash": "9283d94fd9cf369433d90e1ac8f04277802505d3945606115ec22cbd69c6f741",
+    "github_archive_path": "patches/WhisperingValley_v0.7.31_a849177b.pck",
+    "pck_bytes": 2757080,
+    "pck_sha256": "a849177b7da26486b5e97139e3bdfd24c9da395674c872a75b4cb22aace28033",
+    "timestamp_unix": 1795007124,
+    "version": "0.7.31"
   }
 ]
