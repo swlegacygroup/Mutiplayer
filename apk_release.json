@@ -1,12 +1,12 @@
 {
-    "version":  "0.7.31",
-    "version_code":  38,
+    "version":  "0.7.32",
+    "version_code":  39,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.31/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.31",
-    "apk_bytes":  30872475,
-    "apk_sha256":  "68ffa0953ca5a48ce9d7242d1b07e0867aec5dabb7876ac0cffb30ccef31f881",
-    "changelog":  "Whispering Valley v0.7.31: Garden Hoe Tilled Dirt Maintenance \u0026 Craftable Wooden Rowboat for Water Exploration.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.32/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.32",
+    "apk_bytes":  30905675,
+    "apk_sha256":  "3223c02402d76037cb70631e4910f318a1eea06184ecbc2ad88b79557cc36c7d",
+    "changelog":  "Whispering Valley v0.7.32: Pickaxe Mining Progression, Non-Placeable Raw Ores, Visible Held Items \u0026 Item Dropping.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
