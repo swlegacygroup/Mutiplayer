@@ -443,9 +443,29 @@
     "changelog": "Whispering Valley v0.7.31: Garden Hoe Tilled Dirt Maintenance & Craftable Wooden Rowboat for Water Exploration.",
     "content_hash": "9283d94fd9cf369433d90e1ac8f04277802505d3945606115ec22cbd69c6f741",
     "github_archive_path": "patches/WhisperingValley_v0.7.31_a849177b.pck",
-    "pck_bytes": 2757080,
+    "pck_bytes": 2757080.0,
     "pck_sha256": "a849177b7da26486b5e97139e3bdfd24c9da395674c872a75b4cb22aace28033",
-    "timestamp_unix": 1795007124,
+    "timestamp_unix": 1795007124.0,
     "version": "0.7.31"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.32_2dd27145.pck",
+    "changelog": "Whispering Valley v0.7.32: Pickaxe Mining Progression, Non-Placeable Raw Ores, Visible Held Items & Item Dropping.",
+    "content_hash": "6bc4456aed2ac75cb6aee976cc76bbe564d0f35ecbe3f70eabf87c091408578b",
+    "github_archive_path": "patches/WhisperingValley_v0.7.32_2dd27145.pck",
+    "pck_bytes": 2792096.0,
+    "pck_sha256": "2dd2714502bbc1f4a0187417fe2575d1c793f7fdc3073c402e3efaf911e94bd1",
+    "timestamp_unix": 1795009219.0,
+    "version": "0.7.32"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.7.32_466965f5.pck",
+    "changelog": "Whispering Valley v0.7.32: Pickaxe Mining Progression, Non-Placeable Raw Ores, Visible Held Items & Item Dropping.",
+    "content_hash": "a7614a69c9f17ebb4203a095a85aa3ac0f1f09f7553139a1424ace254a56ed3e",
+    "github_archive_path": "patches/WhisperingValley_v0.7.32_466965f5.pck",
+    "pck_bytes": 2818508,
+    "pck_sha256": "466965f54ccf99643222f2a3aaf9678bbb6fb49658bdc287364b5049871d2704",
+    "timestamp_unix": 1795009472,
+    "version": "0.7.32"
   }
 ]
