@@ -1,12 +1,12 @@
 {
-    "version":  "0.7.24",
-    "version_code":  31,
+    "version":  "0.7.31",
+    "version_code":  38,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.24/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.24",
-    "apk_bytes":  30687207,
-    "apk_sha256":  "ddd5f231d2a61f7ae6798ea1936781581b822bf5d0c0721444ca7675042fec72",
-    "changelog":  "Whispering Valley v0.7.24: Android APK Update Pipeline (GitHub Releases APK check + direct download) while keeping PC on LatestVersion.pck.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.31/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.31",
+    "apk_bytes":  30872475,
+    "apk_sha256":  "68ffa0953ca5a48ce9d7242d1b07e0867aec5dabb7876ac0cffb30ccef31f881",
+    "changelog":  "Whispering Valley v0.7.31: Garden Hoe Tilled Dirt Maintenance \u0026 Craftable Wooden Rowboat for Water Exploration.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
