@@ -1,12 +1,12 @@
 {
-    "version":  "0.7.32",
-    "version_code":  39,
+    "version":  "0.7.33",
+    "version_code":  40,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.32/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.32",
-    "apk_bytes":  30905675,
-    "apk_sha256":  "3223c02402d76037cb70631e4910f318a1eea06184ecbc2ad88b79557cc36c7d",
-    "changelog":  "Whispering Valley v0.7.32: Pickaxe Mining Progression, Non-Placeable Raw Ores, Visible Held Items \u0026 Item Dropping.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.33/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.33",
+    "apk_bytes":  30964491,
+    "apk_sha256":  "26809d562c0160f0e56d1740946ee0b67dbeafa8eb04272667589ed1494f11ee",
+    "changelog":  "Whispering Valley v0.7.33: Smart Biome Clustering (Forest Groves \u0026 Boulder Fields) + Rare Sakura Grove \u0026 Emerald Jungle Biomes.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
