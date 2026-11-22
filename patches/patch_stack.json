@@ -583,9 +583,19 @@
     "changelog": "Whispering Valley v1.1.1: Dynamic PointLight2D Weapon Blasts & Shockwaves, Enlarged Illuminated Bosses (2.35x-3.0x), and 3-Ability Multi-Phase Boss Rotations.",
     "content_hash": "227fd2763bad7de56c1dfec629971f435b19432af5c9984f3dcc7dfd393815f8",
     "github_archive_path": "patches/WhisperingValley_v1.1.1_10ac3aa7.pck",
-    "pck_bytes": 5523652,
+    "pck_bytes": 5523652.0,
     "pck_sha256": "10ac3aa7f5f99177eaf603ac45c4268e236eb1746950803c57abe81ab2f0444a",
-    "timestamp_unix": 1795355291,
+    "timestamp_unix": 1795355291.0,
     "version": "1.1.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.2.0_6cb74296.pck",
+    "changelog": "Whispering Valley v1.2.0: Active-Hotbar Weapon & Animal Feed Rules, Visible Mine Walls/Ores/Exit Ladder + Solid Containment + Non-Overlapping Escape Pod, Independent Music/SFX Volume Settings, and Multi-Layered Cozy Indie Soundtrack.",
+    "content_hash": "887a8bf41cd408cbc42fe2dd694f88cac1ae12d333d1bab8468e8122aeb928f8",
+    "github_archive_path": "patches/WhisperingValley_v1.2.0_6cb74296.pck",
+    "pck_bytes": 5986084,
+    "pck_sha256": "6cb742968a5817bb15a0b94375e79c802468a8e8b9017e7a1f3244f70aa20f6e",
+    "timestamp_unix": 1795358373,
+    "version": "1.2.0"
   }
 ]
