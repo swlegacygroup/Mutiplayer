@@ -573,9 +573,19 @@
     "changelog": "Whispering Valley v1.1.0: 50-Slot Metadata & Seeds Overhaul, Co-op Mines/Projectiles/Bosses, True Projectile Physics, Animated Villagers & Mobs, Sloped Roofs, Procedural Music & Sanctuary Mine Architecture.",
     "content_hash": "3b097d3f0558a5f27213d2de1c9b7d22e51f85bf91ca2b1cb4f98c4208ea5794",
     "github_archive_path": "patches/WhisperingValley_v1.1.0_e49b50e0.pck",
-    "pck_bytes": 5343160,
+    "pck_bytes": 5343160.0,
     "pck_sha256": "e49b50e0ba4665bcc1d24b09b01ed7f17b52543bf71915e144b490d0c78b7a1e",
-    "timestamp_unix": 1795353180,
+    "timestamp_unix": 1795353180.0,
     "version": "1.1.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.1.1_10ac3aa7.pck",
+    "changelog": "Whispering Valley v1.1.1: Dynamic PointLight2D Weapon Blasts & Shockwaves, Enlarged Illuminated Bosses (2.35x-3.0x), and 3-Ability Multi-Phase Boss Rotations.",
+    "content_hash": "227fd2763bad7de56c1dfec629971f435b19432af5c9984f3dcc7dfd393815f8",
+    "github_archive_path": "patches/WhisperingValley_v1.1.1_10ac3aa7.pck",
+    "pck_bytes": 5523652,
+    "pck_sha256": "10ac3aa7f5f99177eaf603ac45c4268e236eb1746950803c57abe81ab2f0444a",
+    "timestamp_unix": 1795355291,
+    "version": "1.1.1"
   }
 ]
