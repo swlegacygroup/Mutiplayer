@@ -1,12 +1,12 @@
 {
-    "version":  "1.2.0",
-    "version_code":  46,
+    "version":  "1.2.1",
+    "version_code":  47,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.2.0/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.2.0",
-    "apk_bytes":  31765117,
-    "apk_sha256":  "577ac91d427a65b744151060daa50f686cc53b0f301dd5e7e26e9ba72dfb0256",
-    "changelog":  "Whispering Valley v1.2.0: Active-Hotbar Weapon \u0026 Animal Feed Rules, Visible Mine Walls/Ores/Exit Ladder + Solid Containment + Non-Overlapping Escape Pod, Independent Music/SFX Volume Settings, and Multi-Layered Cozy Indie Soundtrack.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.2.1/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.2.1",
+    "apk_bytes":  31799306,
+    "apk_sha256":  "e6d3f75dfe2b0221cbf4d82b78db8eb7109cd147278c5cf2006e3405297267cf",
+    "changelog":  "Whispering Valley v1.2.1: Prevented Town NPCs from walking, returning at night, or spawning on open water (allowing bridges) with automatic shore relocation.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
