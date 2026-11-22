@@ -593,9 +593,19 @@
     "changelog": "Whispering Valley v1.2.0: Active-Hotbar Weapon & Animal Feed Rules, Visible Mine Walls/Ores/Exit Ladder + Solid Containment + Non-Overlapping Escape Pod, Independent Music/SFX Volume Settings, and Multi-Layered Cozy Indie Soundtrack.",
     "content_hash": "887a8bf41cd408cbc42fe2dd694f88cac1ae12d333d1bab8468e8122aeb928f8",
     "github_archive_path": "patches/WhisperingValley_v1.2.0_6cb74296.pck",
-    "pck_bytes": 5986084,
+    "pck_bytes": 5986084.0,
     "pck_sha256": "6cb742968a5817bb15a0b94375e79c802468a8e8b9017e7a1f3244f70aa20f6e",
-    "timestamp_unix": 1795358373,
+    "timestamp_unix": 1795358373.0,
     "version": "1.2.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.2.1_dd49f3df.pck",
+    "changelog": "Whispering Valley v1.2.1: Prevented Town NPCs from walking, returning at night, or spawning on open water (allowing bridges) with automatic shore relocation.",
+    "content_hash": "6e0f3d5df85a3d4354fcc0724e5b183aa5750a82d31bef0ef9bbcd7b2dc23a8c",
+    "github_archive_path": "patches/WhisperingValley_v1.2.1_dd49f3df.pck",
+    "pck_bytes": 6177844,
+    "pck_sha256": "dd49f3df2cee00b8dafa90489f05a0abcf5a75de74078fa3994bab0a4958305b",
+    "timestamp_unix": 1795385589,
+    "version": "1.2.1"
   }
 ]
