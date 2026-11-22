@@ -1,12 +1,12 @@
 {
-    "version":  "1.1.0",
-    "version_code":  44,
+    "version":  "1.1.1",
+    "version_code":  45,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.1.0/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.1.0",
-    "apk_bytes":  31645630,
-    "apk_sha256":  "98c7560290f589fc5581b5b00248acedd93a035691403b6440f8790adf68cab1",
-    "changelog":  "Whispering Valley v1.1.0: 50-Slot Metadata \u0026 Seeds Overhaul, Co-op Mines/Projectiles/Bosses, True Projectile Physics, Animated Villagers \u0026 Mobs, Sloped Roofs, Procedural Music \u0026 Sanctuary Mine Architecture.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.1.1/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.1.1",
+    "apk_bytes":  31679735,
+    "apk_sha256":  "320dfca716844c4ec0d4c3a2cbe5e842348be523c77689b6590f990c085086bf",
+    "changelog":  "Whispering Valley v1.1.1: Dynamic PointLight2D Weapon Blasts \u0026 Shockwaves, Enlarged Illuminated Bosses (2.35x-3.0x), and 3-Ability Multi-Phase Boss Rotations.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
