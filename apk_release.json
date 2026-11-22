@@ -1,12 +1,12 @@
 {
-    "version":  "1.1.1",
-    "version_code":  45,
+    "version":  "1.2.0",
+    "version_code":  46,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.1.1/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.1.1",
-    "apk_bytes":  31679735,
-    "apk_sha256":  "320dfca716844c4ec0d4c3a2cbe5e842348be523c77689b6590f990c085086bf",
-    "changelog":  "Whispering Valley v1.1.1: Dynamic PointLight2D Weapon Blasts \u0026 Shockwaves, Enlarged Illuminated Bosses (2.35x-3.0x), and 3-Ability Multi-Phase Boss Rotations.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.2.0/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.2.0",
+    "apk_bytes":  31765117,
+    "apk_sha256":  "577ac91d427a65b744151060daa50f686cc53b0f301dd5e7e26e9ba72dfb0256",
+    "changelog":  "Whispering Valley v1.2.0: Active-Hotbar Weapon \u0026 Animal Feed Rules, Visible Mine Walls/Ores/Exit Ladder + Solid Containment + Non-Overlapping Escape Pod, Independent Music/SFX Volume Settings, and Multi-Layered Cozy Indie Soundtrack.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
