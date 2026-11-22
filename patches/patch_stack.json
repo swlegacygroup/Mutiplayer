@@ -503,9 +503,79 @@
     "changelog": "Whispering Valley v0.7.34: Break-Only Resource Yields + Context-Smart Mobile Controls & Hold-to-Drop Hotbar.",
     "content_hash": "17afec247b9083a53eaa17b9643dcb28acd5a8bc1f044bc470361460f4fde881",
     "github_archive_path": "patches/WhisperingValley_v0.7.34_5b8c0db1.pck",
-    "pck_bytes": 3039880,
+    "pck_bytes": 3039880.0,
     "pck_sha256": "5b8c0db1767972d39927289daa85b20c5723d7613099600f1920ef4df017c7bf",
-    "timestamp_unix": 1795013023,
+    "timestamp_unix": 1795013023.0,
     "version": "0.7.34"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.8.0_e3030a53.pck",
+    "changelog": "Whispering Valley v0.8.0 (Phase 1): Procedural Audio Engine, Terraria Boss HP Bar, 4-Dir Animated Adventurer, Multi-Stage Crops, Tree Canopies, Hold-to-Mine & Per-UUID Co-op Saves.",
+    "content_hash": "017a2514ae5c59dce1b21bb9509fc05605490bddce8056c2dc1be15b41ba467d",
+    "github_archive_path": "patches/WhisperingValley_v0.8.0_e3030a53.pck",
+    "pck_bytes": 3094540.0,
+    "pck_sha256": "e3030a53eab5faf1d90182ee0c499a0910aa4bac5706fab7527ef6251881a46e",
+    "timestamp_unix": 1795063270.0,
+    "version": "0.8.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v0.8.0_c4462a32.pck",
+    "changelog": "Whispering Valley v0.8.0 (Phase 1): Procedural Audio Engine, Terraria Boss HP Bar, 4-Dir Animated Adventurer, Multi-Stage Crops, Tree Canopies, Hold-to-Mine & Per-UUID Co-op Saves.",
+    "content_hash": "a40cda73901d9e200122ac901b6bc3ae263b201760be0ae179854c457782f2ae",
+    "github_archive_path": "patches/WhisperingValley_v0.8.0_c4462a32.pck",
+    "pck_bytes": 3147864.0,
+    "pck_sha256": "c4462a32f3fd9c6bd3be46378076f8838b1e61cfbbeca772a85166b577593447",
+    "timestamp_unix": 1795063483.0,
+    "version": "0.8.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.0.0_ad9cf1f9.pck",
+    "changelog": "Whispering Valley v1.0.0: Full Crafting UI, Seasonal Farming & Ranching, Interactive Fishing & Almanac, Town NPCs & Housing, Underground Mines (F1-20), Armor Sets, Projectiles, Dodge Dash & 3 Multi-Phase Bosses.",
+    "content_hash": "6f9d7d81dbcf07e362ee0d6abbad442cc87fe1d2e15cf1d794de5b17b1e141c9",
+    "github_archive_path": "patches/WhisperingValley_v1.0.0_ad9cf1f9.pck",
+    "pck_bytes": 3765364.0,
+    "pck_sha256": "ad9cf1f9f3850abe840e2ab2ad0d7b7a01b8d667304dd6bd4ddbd545e5d52586",
+    "timestamp_unix": 1795069676.0,
+    "version": "1.0.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.0.0_19a259c3.pck",
+    "changelog": "Whispering Valley v1.0.0: Full Crafting UI, Seasonal Farming & Ranching, Interactive Fishing & Almanac, Town NPCs & Housing, Underground Mines (F1-20), Armor Sets, Projectiles, Dodge Dash & 3 Multi-Phase Bosses.",
+    "content_hash": "786fe33f9ddc635b98d30de454518da0e9fc7cc81d895d8b139e2ed98c3328d4",
+    "github_archive_path": "patches/WhisperingValley_v1.0.0_19a259c3.pck",
+    "pck_bytes": 3916384.0,
+    "pck_sha256": "19a259c31df9ba56bbef4470f5bc2b0696733439a9810f1316ebf2a3be77708b",
+    "timestamp_unix": 1795069905.0,
+    "version": "1.0.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.0.0_f2a70b5f.pck",
+    "changelog": "Whispering Valley v1.0.0: Full Crafting UI, Seasonal Farming & Ranching, Interactive Fishing & Almanac, Town NPCs & Housing, Underground Mines (F1-20), Armor Sets, Projectiles, Dodge Dash & 3 Multi-Phase Bosses.",
+    "content_hash": "d0a7b3aee7deb607af6c32072ace4750259d6053e71aaf9dd0ca76939d114ed5",
+    "github_archive_path": "patches/WhisperingValley_v1.0.0_f2a70b5f.pck",
+    "pck_bytes": 3916512.0,
+    "pck_sha256": "f2a70b5f8e4dffb6c8797e7dc622e45afb285b612aa66df6680b30aaf13c2579",
+    "timestamp_unix": 1795069965.0,
+    "version": "1.0.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.0.0_2e27f934.pck",
+    "changelog": "Whispering Valley v1.0.0: Full Crafting UI, Seasonal Farming & Ranching, Interactive Fishing & Almanac, Town NPCs & Housing, Underground Mines (F1-20), Armor Sets, Projectiles, Dodge Dash & 3 Multi-Phase Bosses.",
+    "content_hash": "e403fd8681b0b8dc887f12aeb6c1fa7c1d01cc71c94343e302ec4c64fed780e3",
+    "github_archive_path": "patches/WhisperingValley_v1.0.0_2e27f934.pck",
+    "pck_bytes": 4108140.0,
+    "pck_sha256": "2e27f934557c590abd95dab195e2f92fb6c8be93e4a2b511f403232d9ee06a4a",
+    "timestamp_unix": 1795079526.0,
+    "version": "1.0.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.1.0_e49b50e0.pck",
+    "changelog": "Whispering Valley v1.1.0: 50-Slot Metadata & Seeds Overhaul, Co-op Mines/Projectiles/Bosses, True Projectile Physics, Animated Villagers & Mobs, Sloped Roofs, Procedural Music & Sanctuary Mine Architecture.",
+    "content_hash": "3b097d3f0558a5f27213d2de1c9b7d22e51f85bf91ca2b1cb4f98c4208ea5794",
+    "github_archive_path": "patches/WhisperingValley_v1.1.0_e49b50e0.pck",
+    "pck_bytes": 5343160,
+    "pck_sha256": "e49b50e0ba4665bcc1d24b09b01ed7f17b52543bf71915e144b490d0c78b7a1e",
+    "timestamp_unix": 1795353180,
+    "version": "1.1.0"
   }
 ]
