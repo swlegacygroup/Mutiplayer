@@ -1,12 +1,12 @@
 {
-    "version":  "0.7.34",
-    "version_code":  41,
+    "version":  "1.1.0",
+    "version_code":  44,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v0.7.34/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v0.7.34",
-    "apk_bytes":  30993951,
-    "apk_sha256":  "b5f038de37abe6ee310a03807e5c07f1d26e26dec1538466d9e0fd9deef04a4e",
-    "changelog":  "Whispering Valley v0.7.34: Break-Only Resource Yields + Context-Smart Mobile Controls \u0026 Hold-to-Drop Hotbar.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.1.0/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.1.0",
+    "apk_bytes":  31645630,
+    "apk_sha256":  "98c7560290f589fc5581b5b00248acedd93a035691403b6440f8790adf68cab1",
+    "changelog":  "Whispering Valley v1.1.0: 50-Slot Metadata \u0026 Seeds Overhaul, Co-op Mines/Projectiles/Bosses, True Projectile Physics, Animated Villagers \u0026 Mobs, Sloped Roofs, Procedural Music \u0026 Sanctuary Mine Architecture.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
