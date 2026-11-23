@@ -1,12 +1,12 @@
 {
-    "version":  "1.3.1",
-    "version_code":  49,
+    "version":  "1.4.0",
+    "version_code":  50,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.3.1/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.3.1",
-    "apk_bytes":  31969983,
-    "apk_sha256":  "4d60814fc7e4d1ed0197307c598ca10b7f5df1ee28a574fcb4fe7939952e3b29",
-    "changelog":  "Whispering Valley v1.3.1: Tools Require Active Hotbar Selection, Food \u0026 Weapon/Staff Spam Cooldowns, Zero-Scroll 10-Col Pouch \u0026 1-Tap Hotbar Move, and Side-by-Side Dual-Pane Chest UI.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.4.0/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.4.0",
+    "apk_bytes":  32011909,
+    "apk_sha256":  "b70d6a5466e8d61fe6302dfedec59a38df188476be98cea91ba427b7115e9fe2",
+    "changelog":  "Whispering Valley v1.4.0: Near-Infinite 65536x65536 Multi-Noise World, 12 Organized Biomes (Golden Savanna, Autumn Birchwood, Frostpeak Tundra, Misty Marsh, Crystal Highlands), Frost Pine \u0026 Autumn Birch Trees, Rich Resource Groves \u0026 Outcrops, and 9 Biome Landmarks.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
