@@ -1,12 +1,12 @@
 {
-    "version":  "1.4.0",
-    "version_code":  50,
+    "version":  "1.4.1",
+    "version_code":  51,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.4.0/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.4.0",
-    "apk_bytes":  32011909,
-    "apk_sha256":  "b70d6a5466e8d61fe6302dfedec59a38df188476be98cea91ba427b7115e9fe2",
-    "changelog":  "Whispering Valley v1.4.0: Near-Infinite 65536x65536 Multi-Noise World, 12 Organized Biomes (Golden Savanna, Autumn Birchwood, Frostpeak Tundra, Misty Marsh, Crystal Highlands), Frost Pine \u0026 Autumn Birch Trees, Rich Resource Groves \u0026 Outcrops, and 9 Biome Landmarks.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.4.1/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.4.1",
+    "apk_bytes":  32067043,
+    "apk_sha256":  "3314cebdafe7c979042c05c3110c135aa3dddd1e7b126031490feec7dcbe0db0",
+    "changelog":  "Whispering Valley v1.4.1: Fixed PC \u0026 Mobile combat targeting, added true multitouch \u0026 hold-to-attack, prevented HUD focus hijacking, and upgraded mobile surround-aware action controls.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
