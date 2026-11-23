@@ -623,9 +623,19 @@
     "changelog": "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen & Rarity Rebalance, 8 Variable Mine Floor Shapes & Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain & Object Art.",
     "content_hash": "0d429649d37b9c59742bbd167971fbead980d74ea5b2fdaba560489d201291aa",
     "github_archive_path": "patches/WhisperingValley_v1.3.0_b503efa2.pck",
-    "pck_bytes": 6766312,
+    "pck_bytes": 6766312.0,
     "pck_sha256": "b503efa21d1ffb6cf308ca3fded3b54622ea902a1bb401831d58ca226cf2b774",
-    "timestamp_unix": 1795434721,
+    "timestamp_unix": 1795434721.0,
     "version": "1.3.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.3.1_2681d059.pck",
+    "changelog": "Whispering Valley v1.3.1: Tools Require Active Hotbar Selection, Food & Weapon/Staff Spam Cooldowns, Zero-Scroll 10-Col Pouch & 1-Tap Hotbar Move, and Side-by-Side Dual-Pane Chest UI.",
+    "content_hash": "35b6c1d16ec4fc5cb61fed8cb0ff425a89d8519e2fbc25e0d9a866caab6f63e8",
+    "github_archive_path": "patches/WhisperingValley_v1.3.1_2681d059.pck",
+    "pck_bytes": 7062688,
+    "pck_sha256": "2681d05998ab9ba200d545295174cc57a141adad5b4ae9a0cd68fe47024972d9",
+    "timestamp_unix": 1795437593,
+    "version": "1.3.1"
   }
 ]
