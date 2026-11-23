@@ -1,12 +1,12 @@
 {
-    "version":  "1.3.0",
-    "version_code":  48,
+    "version":  "1.3.1",
+    "version_code":  49,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.3.0/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.3.0",
-    "apk_bytes":  31914423,
-    "apk_sha256":  "02fc129bca19f2e600cbf91985ff94ad28a139ce32671f7c87c803c964b9357e",
-    "changelog":  "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen \u0026 Rarity Rebalance, 8 Variable Mine Floor Shapes \u0026 Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain \u0026 Object Art.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.3.1/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.3.1",
+    "apk_bytes":  31969983,
+    "apk_sha256":  "4d60814fc7e4d1ed0197307c598ca10b7f5df1ee28a574fcb4fe7939952e3b29",
+    "changelog":  "Whispering Valley v1.3.1: Tools Require Active Hotbar Selection, Food \u0026 Weapon/Staff Spam Cooldowns, Zero-Scroll 10-Col Pouch \u0026 1-Tap Hotbar Move, and Side-by-Side Dual-Pane Chest UI.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
