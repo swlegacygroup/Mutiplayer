@@ -643,9 +643,29 @@
     "changelog": "Whispering Valley v1.4.0: Near-Infinite 65536x65536 Multi-Noise World, 12 Organized Biomes (Golden Savanna, Autumn Birchwood, Frostpeak Tundra, Misty Marsh, Crystal Highlands), Frost Pine & Autumn Birch Trees, Rich Resource Groves & Outcrops, and 9 Biome Landmarks.",
     "content_hash": "857d7fb61b3947d6643e00ddd2bb98398368ca50d4b28c3efa682bbd01212eb1",
     "github_archive_path": "patches/WhisperingValley_v1.4.0_ca06b561.pck",
-    "pck_bytes": 7265456,
+    "pck_bytes": 7265456.0,
     "pck_sha256": "ca06b5610122d8db9de4abd286ec871c88034935fb11bddb0af018b36f0c47bf",
-    "timestamp_unix": 1795471940,
+    "timestamp_unix": 1795471940.0,
     "version": "1.4.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.4.1_ad4cdbbb.pck",
+    "changelog": "Whispering Valley v1.4.1: Fixed PC & Mobile combat targeting, added true multitouch & hold-to-attack, prevented HUD focus hijacking, and upgraded mobile surround-aware action controls.",
+    "content_hash": "e588effd58334aea7c403b494e623c2dfb93bbe7f2db2c08d2211245554c8017",
+    "github_archive_path": "patches/WhisperingValley_v1.4.1_ad4cdbbb.pck",
+    "pck_bytes": 7327132.0,
+    "pck_sha256": "ad4cdbbbbde4c672c31f9b29466100a5bb5d4fff1e679fa7ceeb708865bd2d07",
+    "timestamp_unix": 1795474551.0,
+    "version": "1.4.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.4.1_104dffbd.pck",
+    "changelog": "Whispering Valley v1.4.1: Fixed PC & Mobile combat targeting, added true multitouch & hold-to-attack, prevented HUD focus hijacking, and upgraded mobile surround-aware action controls.",
+    "content_hash": "1ccc47b4afa7181380e03f9ef5d1a0500beddd4eeaed739aaf9fc1068166b6e3",
+    "github_archive_path": "patches/WhisperingValley_v1.4.1_104dffbd.pck",
+    "pck_bytes": 7472520,
+    "pck_sha256": "104dffbd4c6cb94c6e586b0750f6f7fb680f0ad9443ecfc46c6efc91ff4ba9bc",
+    "timestamp_unix": 1795474917,
+    "version": "1.4.1"
   }
 ]
