@@ -603,9 +603,19 @@
     "changelog": "Whispering Valley v1.2.1: Prevented Town NPCs from walking, returning at night, or spawning on open water (allowing bridges) with automatic shore relocation.",
     "content_hash": "6e0f3d5df85a3d4354fcc0724e5b183aa5750a82d31bef0ef9bbcd7b2dc23a8c",
     "github_archive_path": "patches/WhisperingValley_v1.2.1_dd49f3df.pck",
-    "pck_bytes": 6177844,
+    "pck_bytes": 6177844.0,
     "pck_sha256": "dd49f3df2cee00b8dafa90489f05a0abcf5a75de74078fa3994bab0a4958305b",
-    "timestamp_unix": 1795385589,
+    "timestamp_unix": 1795385589.0,
     "version": "1.2.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.3.0_52d4754d.pck",
+    "changelog": "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen & Rarity Rebalance, 8 Variable Mine Floor Shapes & Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain & Object Art.",
+    "content_hash": "a3e275abfee743577572c8c599a58e93aada538e72e0f472ad0b43aac04edf8f",
+    "github_archive_path": "patches/WhisperingValley_v1.3.0_52d4754d.pck",
+    "pck_bytes": 6468320,
+    "pck_sha256": "52d4754dd5cdf7f7a1708994ce78f6acb5df95bd50b1337a19d91f9c557f9175",
+    "timestamp_unix": 1795433832,
+    "version": "1.3.0"
   }
 ]
