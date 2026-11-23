@@ -4,8 +4,8 @@
     "apk_filename":  "Whispering.Valley.apk",
     "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.3.0/Whispering.Valley.apk",
     "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.3.0",
-    "apk_bytes":  31862866,
-    "apk_sha256":  "2bcf8fe8da1a9e2c1103f39a64957e9de2e281b667940d7d51201203be69ee10",
+    "apk_bytes":  31914423,
+    "apk_sha256":  "02fc129bca19f2e600cbf91985ff94ad28a139ce32671f7c87c803c964b9357e",
     "changelog":  "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen \u0026 Rarity Rebalance, 8 Variable Mine Floor Shapes \u0026 Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain \u0026 Object Art.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
