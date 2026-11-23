@@ -633,9 +633,19 @@
     "changelog": "Whispering Valley v1.3.1: Tools Require Active Hotbar Selection, Food & Weapon/Staff Spam Cooldowns, Zero-Scroll 10-Col Pouch & 1-Tap Hotbar Move, and Side-by-Side Dual-Pane Chest UI.",
     "content_hash": "35b6c1d16ec4fc5cb61fed8cb0ff425a89d8519e2fbc25e0d9a866caab6f63e8",
     "github_archive_path": "patches/WhisperingValley_v1.3.1_2681d059.pck",
-    "pck_bytes": 7062688,
+    "pck_bytes": 7062688.0,
     "pck_sha256": "2681d05998ab9ba200d545295174cc57a141adad5b4ae9a0cd68fe47024972d9",
-    "timestamp_unix": 1795437593,
+    "timestamp_unix": 1795437593.0,
     "version": "1.3.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.4.0_ca06b561.pck",
+    "changelog": "Whispering Valley v1.4.0: Near-Infinite 65536x65536 Multi-Noise World, 12 Organized Biomes (Golden Savanna, Autumn Birchwood, Frostpeak Tundra, Misty Marsh, Crystal Highlands), Frost Pine & Autumn Birch Trees, Rich Resource Groves & Outcrops, and 9 Biome Landmarks.",
+    "content_hash": "857d7fb61b3947d6643e00ddd2bb98398368ca50d4b28c3efa682bbd01212eb1",
+    "github_archive_path": "patches/WhisperingValley_v1.4.0_ca06b561.pck",
+    "pck_bytes": 7265456,
+    "pck_sha256": "ca06b5610122d8db9de4abd286ec871c88034935fb11bddb0af018b36f0c47bf",
+    "timestamp_unix": 1795471940,
+    "version": "1.4.0"
   }
 ]
