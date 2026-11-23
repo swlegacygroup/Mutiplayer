@@ -613,9 +613,19 @@
     "changelog": "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen & Rarity Rebalance, 8 Variable Mine Floor Shapes & Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain & Object Art.",
     "content_hash": "a3e275abfee743577572c8c599a58e93aada538e72e0f472ad0b43aac04edf8f",
     "github_archive_path": "patches/WhisperingValley_v1.3.0_52d4754d.pck",
-    "pck_bytes": 6468320,
+    "pck_bytes": 6468320.0,
     "pck_sha256": "52d4754dd5cdf7f7a1708994ce78f6acb5df95bd50b1337a19d91f9c557f9175",
-    "timestamp_unix": 1795433832,
+    "timestamp_unix": 1795433832.0,
+    "version": "1.3.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.3.0_b503efa2.pck",
+    "changelog": "Whispering Valley v1.3.0: Non-Repetitive Domain-Warped World Gen & Rarity Rebalance, 8 Variable Mine Floor Shapes & Sizes, Valuable Nerfed Coin Economy, Stamina/Well-Fed Natural HP Regen, and Cached 32x32 Terrain & Object Art.",
+    "content_hash": "0d429649d37b9c59742bbd167971fbead980d74ea5b2fdaba560489d201291aa",
+    "github_archive_path": "patches/WhisperingValley_v1.3.0_b503efa2.pck",
+    "pck_bytes": 6766312,
+    "pck_sha256": "b503efa21d1ffb6cf308ca3fded3b54622ea902a1bb401831d58ca226cf2b774",
+    "timestamp_unix": 1795434721,
     "version": "1.3.0"
   }
 ]
