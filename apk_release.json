@@ -1,12 +1,12 @@
 {
-    "version":  "1.4.1",
-    "version_code":  51,
+    "version":  "1.5.0",
+    "version_code":  52,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.4.1/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.4.1",
-    "apk_bytes":  32067043,
-    "apk_sha256":  "3314cebdafe7c979042c05c3110c135aa3dddd1e7b126031490feec7dcbe0db0",
-    "changelog":  "Whispering Valley v1.4.1: Fixed PC \u0026 Mobile combat targeting, added true multitouch \u0026 hold-to-attack, prevented HUD focus hijacking, and upgraded mobile surround-aware action controls.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.5.0/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.5.0",
+    "apk_bytes":  32537876,
+    "apk_sha256":  "cb6bdba3fc237caa603a56966ea3db6be06ffabf3cfc89656536f67d40726ac0",
+    "changelog":  "Whispering Valley v1.5.0: Added 5 selectable heroes with unique sprites, idle/walk/swing animations \u0026 multiplayer sync, plus a clean frameless Top-Left RPG HUD.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
