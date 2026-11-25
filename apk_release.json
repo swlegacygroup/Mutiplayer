@@ -1,12 +1,12 @@
 {
-    "version":  "1.5.0",
-    "version_code":  52,
+    "version":  "1.5.1",
+    "version_code":  53,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.5.0/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.5.0",
-    "apk_bytes":  32537876,
-    "apk_sha256":  "cb6bdba3fc237caa603a56966ea3db6be06ffabf3cfc89656536f67d40726ac0",
-    "changelog":  "Whispering Valley v1.5.0: Added 5 selectable heroes with unique sprites, idle/walk/swing animations \u0026 multiplayer sync, plus a clean frameless Top-Left RPG HUD.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.5.1/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.5.1",
+    "apk_bytes":  32815833,
+    "apk_sha256":  "d1305444899d68ba9df6261dc25777d870c9c28b6536406d7ba39c78b8ae8a9a",
+    "changelog":  "Whispering Valley v1.5.1: Balanced resource loot, EarthBound-style rolling HP \u0026 heal tug-of-war with in-heart fill/drain indicators, upgraded weather visuals \u0026 outdoor/shelter weather audio, redesigned golden-hour Main Menu with live Hero vista, and Town NPCs disabled for maintenance.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
