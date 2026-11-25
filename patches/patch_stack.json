@@ -683,9 +683,29 @@
     "changelog": "Whispering Valley v1.5.0: Added 5 selectable heroes with unique sprites, idle/walk/swing animations & multiplayer sync, plus a clean frameless Top-Left RPG HUD.",
     "content_hash": "cebec463f2c57eb2f90541eb1f702fc02738502cab8cd92055aec900625d4ed0",
     "github_archive_path": "patches/WhisperingValley_v1.5.0_dcb3f46a.pck",
-    "pck_bytes": 9735768,
+    "pck_bytes": 9735768.0,
     "pck_sha256": "dcb3f46aafeb2369ef57b112abe66fd26f030cd3176ee2593ca756960670aa32",
-    "timestamp_unix": 1795561745,
+    "timestamp_unix": 1795561745.0,
     "version": "1.5.0"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.5.1_3fc61a42.pck",
+    "changelog": "Whispering Valley v1.5.1: Balanced resource loot, EarthBound-style rolling HP & heal tug-of-war with in-heart fill/drain indicators, upgraded weather visuals & outdoor/shelter weather audio, redesigned golden-hour Main Menu with live Hero vista, and Town NPCs disabled for maintenance.",
+    "content_hash": "5d04e436558df4cfd682dd613449551f10ece111d60ccb211bd08ef34f4f686b",
+    "github_archive_path": "patches/WhisperingValley_v1.5.1_3fc61a42.pck",
+    "pck_bytes": 11043008.0,
+    "pck_sha256": "3fc61a424b49865c31e1dac9080179adec9e7410196f2be48a0863b7a10a9f80",
+    "timestamp_unix": 1795608213.0,
+    "version": "1.5.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.5.1_f7bc2129.pck",
+    "changelog": "Whispering Valley v1.5.1: Balanced resource loot, EarthBound-style rolling HP & heal tug-of-war with in-heart fill/drain indicators, upgraded weather visuals & outdoor/shelter weather audio, redesigned golden-hour Main Menu with live Hero vista, and Town NPCs disabled for maintenance.",
+    "content_hash": "7eacffdeb759989fe797c2fbc77935986b5875fbc8a82a3e5ae924c5fb6e8e39",
+    "github_archive_path": "patches/WhisperingValley_v1.5.1_f7bc2129.pck",
+    "pck_bytes": 11218612,
+    "pck_sha256": "f7bc21293ef0480b1d3db76ba59be0264092b61f768b040624d6d0c7d67c4ad9",
+    "timestamp_unix": 1795608610,
+    "version": "1.5.1"
   }
 ]
