@@ -703,9 +703,29 @@
     "changelog": "Whispering Valley v1.5.1: Balanced resource loot, EarthBound-style rolling HP & heal tug-of-war with in-heart fill/drain indicators, upgraded weather visuals & outdoor/shelter weather audio, redesigned golden-hour Main Menu with live Hero vista, and Town NPCs disabled for maintenance.",
     "content_hash": "7eacffdeb759989fe797c2fbc77935986b5875fbc8a82a3e5ae924c5fb6e8e39",
     "github_archive_path": "patches/WhisperingValley_v1.5.1_f7bc2129.pck",
-    "pck_bytes": 11218612,
+    "pck_bytes": 11218612.0,
     "pck_sha256": "f7bc21293ef0480b1d3db76ba59be0264092b61f768b040624d6d0c7d67c4ad9",
-    "timestamp_unix": 1795608610,
+    "timestamp_unix": 1795608610.0,
     "version": "1.5.1"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.5.2_72194037.pck",
+    "changelog": "Whispering Valley v1.5.2: 8 cozy mixed-gender characters with unique playstyle buffs, polished EarthBound rolling HP, indoor roof chimney smoke & outdoor rain campfire sizzle, mobile Dash button & radial polish, open-water fishing with Glowworm Bait & Magnet Lure, reactive hostile/harmless mob AI + 10 new biome creatures, species-authentic animal care, and tightened 4.0-tile reach.",
+    "content_hash": "e333dc61f491a9299cf7c73a60b1a186099044f0e8d7e0b844025d61a07be61a",
+    "github_archive_path": "patches/WhisperingValley_v1.5.2_72194037.pck",
+    "pck_bytes": 12476724.0,
+    "pck_sha256": "72194037fd9d72e131a7fa3338acf4290cf38d84ba78229c3e3c4534e019f6a2",
+    "timestamp_unix": 1795702898.0,
+    "version": "1.5.2"
+  },
+  {
+    "archive_filename": "WhisperingValley_v1.5.2_d7aa23de.pck",
+    "changelog": "Whispering Valley v1.5.2: 8 cozy mixed-gender characters with unique playstyle buffs, polished EarthBound rolling HP, indoor roof chimney smoke & outdoor rain campfire sizzle, mobile Dash button & radial polish, open-water fishing with Glowworm Bait & Magnet Lure, reactive hostile/harmless mob AI + 10 new biome creatures, species-authentic animal care, and tightened 4.0-tile reach.",
+    "content_hash": "d84627f0347824396ce9fc68a10ae49c847d5b7609e8a23a41458c68a2abb542",
+    "github_archive_path": "patches/WhisperingValley_v1.5.2_d7aa23de.pck",
+    "pck_bytes": 12484736,
+    "pck_sha256": "d7aa23de7ae0194d3ce7dc3aebf15f9eed59bda7b4ae23e5569f7a7e1daabf38",
+    "timestamp_unix": 1795703066,
+    "version": "1.5.2"
   }
 ]
