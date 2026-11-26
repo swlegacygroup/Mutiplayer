@@ -1,12 +1,12 @@
 {
-    "version":  "1.5.1",
-    "version_code":  53,
+    "version":  "1.5.2",
+    "version_code":  54,
     "apk_filename":  "Whispering.Valley.apk",
-    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.5.1/Whispering.Valley.apk",
-    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.5.1",
-    "apk_bytes":  32815833,
-    "apk_sha256":  "d1305444899d68ba9df6261dc25777d870c9c28b6536406d7ba39c78b8ae8a9a",
-    "changelog":  "Whispering Valley v1.5.1: Balanced resource loot, EarthBound-style rolling HP \u0026 heal tug-of-war with in-heart fill/drain indicators, upgraded weather visuals \u0026 outdoor/shelter weather audio, redesigned golden-hour Main Menu with live Hero vista, and Town NPCs disabled for maintenance.",
+    "apk_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/download/v1.5.2/Whispering.Valley.apk",
+    "release_url":  "https://github.com/swlegacygroup/Mutiplayer/releases/tag/v1.5.2",
+    "apk_bytes":  33087243,
+    "apk_sha256":  "8863348c2d6cceda0322631968adf32551424b4c5031625b46bf0bd79ce48343",
+    "changelog":  "Whispering Valley v1.5.2: 8 cozy mixed-gender characters with unique playstyle buffs, polished EarthBound rolling HP, indoor roof chimney smoke \u0026 outdoor rain campfire sizzle, mobile Dash button \u0026 radial polish, open-water fishing with Glowworm Bait \u0026 Magnet Lure, reactive hostile/harmless mob AI + 10 new biome creatures, species-authentic animal care, and tightened 4.0-tile reach.",
     "public_server_address":  "127.0.0.1",
     "public_server_port":  7777
 }
